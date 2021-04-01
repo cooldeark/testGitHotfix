@@ -6,7 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
-
+        <ins class="clickforceads" style="display:inline-block;" data-ad-zone="9388"></ins>
+        <script async type="text/javascript" src="//cdn.holmesmind.com/js/init.js"></script>
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
